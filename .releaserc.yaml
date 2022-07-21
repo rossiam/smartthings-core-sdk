@@ -6,3 +6,5 @@ plugins:
   - "@semantic-release/npm"
   - "@semantic-release/git"
 preset: conventionalcommits
+branches:
+  - name: forkmain
